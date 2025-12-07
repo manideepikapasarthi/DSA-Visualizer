@@ -131,6 +131,7 @@ Developed as part of the Object Oriented Programming Curriculum.
 **Manideepika Pasarthi** - [manideepikapasarthi@gmail.com] 
 Github: [https://github.com/manideepikapasarthi]
 
-**Deepika Penta**
+**Deepika Penta** - [deepikapenta@yahoo.com]
+Github: [https://github.com/deepikapenta012]
 
 --- 
